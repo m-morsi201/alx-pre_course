@@ -1,2 +1,1 @@
-create git dir
-up to data
+git pull origin master
